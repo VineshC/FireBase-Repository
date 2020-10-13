@@ -10,6 +10,5 @@
     <enablePortalUserCaseSharing>true</enablePortalUserCaseSharing>
     <enablePortalUserVisibility>true</enablePortalUserVisibility>
     <enableRestrictAccessLookupRecords>false</enableRestrictAccessLookupRecords>
-    <enableSecureGuestAccess>true</enableSecureGuestAccess>
     <enableStandardReportVisibility>true</enableStandardReportVisibility>
 </SharingSettings>
