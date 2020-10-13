@@ -11,9 +11,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>true</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>dummy-prod@copado.com</defaultCaseOwner>
+    <defaultCaseOwner>gforcedummyuat@google.com</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>dummy-prod@copado.com</defaultCaseUser>
+    <defaultCaseUser>gforcedummyuat@google.com</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
